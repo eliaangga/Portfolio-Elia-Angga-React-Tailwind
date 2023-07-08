@@ -1,1 +1,6 @@
-# Portfolio-Elia-Angga-React-Tailwind
+# Portfolio
+- Elia Angga
+- React
+- Tailwind
+
+
